@@ -5,25 +5,25 @@ export default {
     extend: {
       colors: {
         // Juurava — deep navy/purple base
-        ink: '#06081F',          // near-black blue
-        deep: '#0B0E2E',         // hero background
-        midnight: '#121645',     // section blocks
-        slate: '#1A1F55',        // card surface
-        graphite: '#252B6E',     // borders
-        steel: '#3E4694',        // muted text
-        mist: '#D8DCF0',         // body text
-        bone: '#F3F4FB',         // headings
+        ink: '#030512',          // near-black blue
+        deep: '#050716',         // hero background
+        midnight: '#0A1030',     // section blocks
+        slate: '#101846',        // card surface
+        graphite: '#1E2867',     // borders
+        steel: '#5060A6',        // muted text
+        mist: '#B8C4EA',         // body text
+        bone: '#E7EAF8',         // headings
 
         // Magenta/pink — primary accent (was 'ember')
-        magenta: '#FF3DA8',      // hot magenta
-        pink: '#E83BB8',
-        rose: '#C73DC9',
-        plum: '#8B3CD5',
+        magenta: '#D21B9C',      // deep neon magenta
+        pink: '#C718B5',
+        rose: '#9B2BC4',
+        plum: '#5F32C8',
 
         // Cyan/electric blue — secondary accent (was 'signal')
-        cyan: '#3DE3FF',         // electric cyan
-        sky: '#3D9CFF',          // electric blue
-        violet: '#7B5CFF',       // bridge between magenta and cyan
+        cyan: '#168FE6',         // electric blue
+        sky: '#0F67FF',          // saturated blue
+        violet: '#6438E8',       // bridge between magenta and blue
       },
       fontFamily: {
         serif: ['Fraunces', 'Georgia', 'serif'],
