@@ -7,7 +7,7 @@ export default function Footer() {
         <div>
           <div className="mb-5">
             <img
-              src="/images/juurava_mark_transparent-removebg.png"
+              src="/images/juurava-logo.png"
               alt="Juurava Systems"
               style={{ height: '122px', width: 'auto', objectFit: 'contain' }}
             />
