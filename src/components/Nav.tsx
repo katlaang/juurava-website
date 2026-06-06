@@ -4,7 +4,7 @@ export default function Nav() {
          style={{ background: 'rgba(5,7,22,0.78)', backdropFilter: 'blur(20px)', borderBottom: '1px solid rgba(100,56,232,0.18)' }}>
       <a href="/" className="flex items-center gap-2">
         <img
-          src="/images/juurava-logo.png"
+          src="/images/juurava_mark_transparent-removebg.png"
           alt="Juurava Systems"
           style={{ height: '122px', width: 'auto', objectFit: 'contain' }}
         />
